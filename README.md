@@ -1,4 +1,4 @@
-# [sh.ell.run/openshift-tips](https://sh.ell.run/openshift-tips)
+# [sh.ell.run](https://sh.ell.run)
 
 This site pretends to compile a list of OpenShift 4 tips, mainly one liners.
 

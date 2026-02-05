@@ -1,4 +1,4 @@
-baseURL = "https://sh.ell.run/openshift-tips/"
+baseURL = "https://sh.ell.run/"
 languageCode = "en-us"
 title = "OpenShift Tips"
 theme = "techdoc"
